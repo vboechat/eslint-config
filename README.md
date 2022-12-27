@@ -1,4 +1,4 @@
-# @vboechat/eslint-config-vboechat
+# @vboechat/eslint-config
 
 This is my personal ESLint configuration.
 
@@ -14,7 +14,7 @@ $ npm install @vboechat/eslint-config-vboechat -D
 
 ```json
 {
-  "extends": "@vboechat/eslint-config-vboechat/lint"
+  "extends": "@vboechat/eslint-config/lint"
 }
 ```
 
@@ -41,7 +41,7 @@ You can override some rules by adding them to your `.eslintrc.json` file:
 
 ```json
 {
-  "extends": "@vboechat/eslint-config-vboechat",
+  "extends": "@vboechat/eslint-config/lint",
   "rules": {
     "no-console": "off"
   }
