@@ -7,12 +7,7 @@ module.exports = {
       jsx: true,
     },
   },
-  plugins: [
-    "@typescript-eslint/eslint-plugin",
-    "eslint-plugin-import-helpers",
-    "jsx-a11y",
-    "react",
-  ],
+  plugins: ["@typescript-eslint/eslint-plugin", "eslint-plugin-import-helpers", "jsx-a11y", "react"],
   extends: [
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
@@ -30,6 +25,7 @@ module.exports = {
     "@typescript-eslint/interface-name-prefix": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "react/react-in-jsx-scope": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "react/self-closing-comp": "error",
     "jsx-a11y/aria-props": "warn",
