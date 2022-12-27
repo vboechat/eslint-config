@@ -1,8 +1,7 @@
 {
-  "name": "eslint-config-vboechat",
+  "name": "@vboechat/eslint-config-vboechat",
   "version": "1.0.0",
   "description": "My personal ESLint configuration",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vboechat/eslint-config-vboechat.git"
