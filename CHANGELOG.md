@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.1] - 2022-12-27
+First major version of the project.
+
+### Added
+ - Support for storybook eslint plugin.
+ - Created a section for editorconfig in README.md.
+
+### Changed
+ - Changed installation instructions in README.md.
+
 ## [1.0.2] - 2022-12-27
 Minor changes into the package.json file.
 
