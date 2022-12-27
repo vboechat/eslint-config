@@ -7,7 +7,7 @@ This is my personal ESLint configuration.
 1. Install the package:
 
 ```bash
-$ npm install @vboechat/eslint-config-vboechat -D
+$ npm install eslint @vboechat/eslint-config-vboechat -D
 ```
 
 2. Create a `.eslintrc.json` file in the root of your project:
