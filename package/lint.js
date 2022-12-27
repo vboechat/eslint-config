@@ -17,6 +17,7 @@ module.exports = {
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
     "plugin:react/recommended",
+    "plugin:storybook/recommended",
   ],
   root: true,
   env: {
