@@ -1,7 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## [1.1] - 2022-12-27
+## [1.1.4] - 2022-12-27
+
+### Added
+ - Added "react/react-in-jsx-scope" rule with default value "off".
+
+## [1.1.0] - 2022-12-27
 First major version of the project.
 
 ### Added
