@@ -1,13 +1,13 @@
 {
-  "name": "@vboechat/eslint-config-vboechat",
+  "name": "@vboechat/eslint-config",
   "version": "1.0.0",
   "description": "My personal ESLint configuration",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vboechat/eslint-config-vboechat.git"
+    "url": "git+https://github.com/vboechat/eslint-config.git"
   },
   "author": "Victor Ribeiro Boechat",
-  "homepage": "https://github.com/vboechat/eslint-config-vboechat#readme",
+  "homepage": "https://github.com/vboechat/eslint-config",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.47.1",
     "@typescript-eslint/parser": "^5.47.1",
