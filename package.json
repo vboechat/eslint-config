@@ -1,11 +1,16 @@
 {
   "name": "@vboechat/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal ESLint configuration",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vboechat/eslint-config.git"
   },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "vboechat"
+  ],
   "author": "Victor Ribeiro Boechat",
   "homepage": "https://github.com/vboechat/eslint-config",
   "dependencies": {
