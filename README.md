@@ -14,7 +14,7 @@ $ npm install @vboechat/eslint-config-vboechat -D
 
 ```json
 {
-  "extends": "@vboechat/eslint-config-vboechat"
+  "extends": "@vboechat/eslint-config-vboechat/lint"
 }
 ```
 
