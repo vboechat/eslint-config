@@ -46,6 +46,7 @@ module.exports = {
         singleQuote: false,
         semi: true,
         bracketSpacing: true,
+        endOfLine: "auto"
       },
     ],
     "import-helpers/order-imports": [
