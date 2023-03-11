@@ -1,10 +1,10 @@
 {
   "name": "@vboechat/eslint-config",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "My personal ESLint configuration",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vboechat/eslint-config.git"
+    "url": "https://github.com/vboechat/eslint-config"
   },
   "keywords": [
     "eslint",
